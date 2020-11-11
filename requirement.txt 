@@ -1,0 +1,8 @@
+numpy
+pandas
+flask 
+joblib 
+sklearn
+nltk
+re
+warnings
